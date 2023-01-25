@@ -20,6 +20,7 @@ namespace potion_making_prototype
             };
             while(qNum <= 20)
             {
+                Console.Clear();
                 Cooking.Brew(potion, qNum);
                 qNum++;
                 Potion_Body.potionRules(potion.flatness);
