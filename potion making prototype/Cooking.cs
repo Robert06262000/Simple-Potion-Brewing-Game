@@ -21,9 +21,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 2:
@@ -32,9 +30,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 3:
@@ -43,9 +39,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 4:
@@ -54,9 +48,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 5:
@@ -65,9 +57,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 6:
@@ -76,9 +66,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 7:
@@ -87,9 +75,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 8:
@@ -98,9 +84,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 9:
@@ -109,9 +93,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 10:
@@ -120,9 +102,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 11:
@@ -131,9 +111,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 12:
@@ -142,9 +120,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 13:
@@ -153,9 +129,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 14:
@@ -164,9 +138,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 15:
@@ -175,9 +147,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 16:
@@ -186,9 +156,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 17:
@@ -197,9 +165,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 18:
@@ -208,9 +174,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 19:
@@ -219,9 +183,7 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
                 case 20:
@@ -230,12 +192,15 @@ namespace potion_making_prototype
                     ans = Console.ReadLine();
                     if (ans == "y")
                     {
-                        potion.color = foodColor[ingredient];
-                        potion.weight += foodMass[ingredient];
-                        potion.flatness += foodBubbles[ingredient];
+                        AdjustPotion();
                     }
                     break;
             }
+        }
+        private static void AdjustPotion(){
+            potion.color = foodColor[ingredient];
+            potion.weight += foodMass[ingredient];
+            potion.flatness += foodBubbles[ingredient];
         }
     }
 }
